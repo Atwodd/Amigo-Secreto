@@ -1,4 +1,4 @@
-# 📋 Lista de Amigos
+# 📋 Sorteo de Amigos
 
 Este es un proyecto sencillo en JavaScript que permite gestionar una lista de amigos. Se pueden agregar nombres, visualizar la lista y realizar un sorteo aleatorio para seleccionar un amigo.
 
